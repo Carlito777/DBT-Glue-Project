@@ -102,7 +102,7 @@ INSERT_DTS
 
 FROM country_details_transform
 
--- tranform.yml -- Configuration for Tranform Table code 
+-- transform.yml -- Configuration for Transform Table code 
 
 version: 2
 
